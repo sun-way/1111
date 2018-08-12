@@ -23,9 +23,6 @@ if($_POST["clear"])
 {
     Basket::removeProduct();
 }
-
-
-
 ?>
 
 </body>
